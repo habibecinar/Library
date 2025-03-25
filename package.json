@@ -6,7 +6,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build --base=/library/",
+    "build": "vite build --base=/Library/",
     "preview": "vite preview",
     "goLive": "npm run dev",
     "goPreview": "npm run build && npm run preview",
